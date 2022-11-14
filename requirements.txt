@@ -2,10 +2,5 @@ aiofiles==22.1.0
 databases==0.6.1
 fastapi==0.87.0
 keras==2.10.0
-matplotlib==3.6.2
 numpy==1.23.3
-Pillow==9.3.0
-pydantic==1.9.2
-requests==2.27.1
-SQLAlchemy==1.4.41
 tensorflow==2.10.0
